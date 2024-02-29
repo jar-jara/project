@@ -8,6 +8,15 @@ from PyQt5.QtWidgets import (
 from instr import *
 from second_win import *
 
+asd
+asd
+as
+ds
+dasd
+
+
+sads
+
 class MainWin(QWidget):
    def __init__(self):
        ''' окно, в котором располагается приветствие '''
