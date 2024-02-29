@@ -8,11 +8,6 @@ from PyQt5.QtWidgets import (
        QPushButton, QLabel, QListWidget, QLineEdit)
  
 from instr import *
-a
-
-asdasd
-
-asdasdasdasdd
 
 class FinalWin(QWidget):
    def __init__(self, exp):
